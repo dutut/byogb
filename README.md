@@ -23,6 +23,5 @@ python train.py --dataset amazoncobuy --replay CD --structure yes --classes_per_
 
 3. OGB-arxiv
 python train.py --dataset ogb_arxiv --replay CD --structure yes --classes_per_task 3 --memory_size 3000
-
 </code>
 </pre>
